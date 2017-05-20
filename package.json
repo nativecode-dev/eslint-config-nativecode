@@ -4,9 +4,10 @@
   "license": "MIT",
   "main": "lib/index.js",
   "name": "eslint-config-nativecode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "eslint": "^3.19.0",
+    "eslint-config-standard": "^10.2.1",
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-node": "^4.2.2",
     "eslint-plugin-promise": "^3.5.0",
