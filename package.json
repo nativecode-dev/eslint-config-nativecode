@@ -1,0 +1,22 @@
+{
+  "author": "Mike Pham <support@nativecode.com> (https://www.mikepham.com)",
+  "description": "NativeCode Development ESLint Configuration",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "eslint-config-nativecode",
+  "version": "1.0.0",
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-node": "^4.2.2",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
